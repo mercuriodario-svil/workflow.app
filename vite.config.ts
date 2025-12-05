@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => {
         // **********************************************
         // ➡️ AGGIUNGI QUI LA PROPRIETÀ 'base'
         // Deve corrispondere al nome del tuo repository preceduto e seguito da '/'
-        base: 'https://github.com/mercuriodario-svil/workflow.app.git/', 
+        base: 'https://mercuriodario-svil.github.io/workflow.app/', 
         // **********************************************
         server: {
             port: 3000,
