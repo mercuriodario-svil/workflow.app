@@ -1,0 +1,5 @@
+{
+  "name": "WorkFlow Manager",
+  "description": "Un'applicazione completa per gestire il rendiconto ore settimanale, prendere appunti intelligenti e gestire task in stile Kanban.",
+  "requestFramePermissions": []
+}
